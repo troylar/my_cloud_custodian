@@ -1,0 +1,6 @@
+- type: offhour
+  tag: OffSchedule
+  default_tz: est
+  weekends: true
+  opt-out: true
+  offhour: 8

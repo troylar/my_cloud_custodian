@@ -1,0 +1,6 @@
+- type: onhour
+  tag: OnSchedule
+  default_tz: est
+  weekends: true
+  opt-out: false
+  onhour: 9
